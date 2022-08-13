@@ -1,7 +1,16 @@
-Plethan strives to build friendly open source communities revolving aroudn our products, as such, there are guidelines that state what are the expection from you as a member of our wonderful communities.
+# Code of Conduct
+Plethan strives to build friendly open source communities revolving around our products, as such, there are guidelines that state what are the expection from you as a member of our wonderful communities.
 
 ### Contribution Conduct
-Plethan accepts contribution across it's products and open-source software, and to acheive this efficiently, there are set of guidelines that state what kind of features we reject, accept and so on. In Plethan's *Plethan* repro, there is a contribution paper that will have the general purpose guidelines for every software we release, however, when contributing to a specific project, you should also read it's own contribution policy.
+Plethan accepts contribution across it's products and open-source software, and to acheive this efficiently, there are set of guidelines that state what kind of features we reject, accept and so on. In Plethan's *.github* repro, there is a contribution paper that will have the general purpose guidelines for every software we release, however, when contributing to a specific project, you should also read it's own contribution policy.
+
+### Scope
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+
+This Code of Conduct also applies to actions taken outside of these spaces, and which have a negative impact on community health.
+
+### Branding usage
+We have a list of guidelines for using our brand located in the Plethan's *.github* repro.
 
 ### Our Standards
 As a community member, we expect the following:
@@ -21,7 +30,3 @@ As a community member, we expect the following:
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-### Scope
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
-
-This Code of Conduct also applies to actions taken outside of these spaces, and which have a negative impact on community health.

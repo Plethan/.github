@@ -1,4 +1,5 @@
 # Code of Conduct
+
 Plethan strives to build friendly open source communities revolving around our products, as such, there are guidelines that state what are the expection from you as a member of our wonderful communities.
 
 ### Contribution Conduct

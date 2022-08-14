@@ -12,4 +12,6 @@ These are a few types of optimization we tend to reject:
 2. **Magic:** We reject kind of optimization that use niche features that affact the predicitability of the Software's output.
 
 ### Readability
-We always try to maintain the readability of our Software, as such, we follow the [Roblox Lua Style guide](https://roblox.github.io/lua-style-guide/); so write your code accordingly to that style guide.
+We always try to maintain the readability of our Software, as such, we follow the [Roblox Lua Style guide](https://roblox.github.io/lua-style-guide/); so write your code accordingly to that style guide. However there are a few guidelines that we want to explictly mention, regardless of their existence in the style guide or not:
+1. **Naming:** You should name your variables depending on their behavior. For example, boolean operations are often represented as a yes or no questions, therfore, you should name the variables *isX* rather than *isNotX*. And an event handler should be named *OnSomething* rather than *Something*, and a function should be named *DoSomething* rather than *SomethingEnabler*.
+

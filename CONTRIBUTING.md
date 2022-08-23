@@ -5,7 +5,7 @@ We always welcome contributions to our software *(unless explictly said otherwis
 We always strive to optimze our software speed, however, we should have clear guideliens that state what kind of optimization we look for at Plethan for our software.
 These are a few types of optimization that we tend to accept:
 1. **Stable Optimization:** We look for optimization that always cause positive effect on the Software's speed regardless of the number of inputs. O(1) is often assoicated with this optimization
-2. **Use the right algorithms/data structures:** Always use the right algorithm and data structure for your use case. An array is good, but a dictinary is awesome for large-scale data.
+2. **Use the right algorithms/data structures:** Always use the right algorithm and data structure for your use case. An array is good, but a dictionary is awesome for large-scale data.
 
 These are a few types of optimization we tend to reject:
 1. **Premature optimization:** We always reject optimization that affect the speed of the Software, with a huge cost on the readability of the Software source code.

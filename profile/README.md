@@ -1,4 +1,4 @@
-<img width = 400 src = "https://user-images.githubusercontent.com/111036791/194720665-e7464c7e-cd3e-457d-8222-f4e811f1d0bc.svg">
+<img width = 600 src = "https://user-images.githubusercontent.com/111036791/194720665-e7464c7e-cd3e-457d-8222-f4e811f1d0bc.svg">
 
 <br>
 
